@@ -1,0 +1,7 @@
+.game-wrapper {
+    background-color: rgba(107, 107, 128, 0.6);
+    border-radius: 2rem;
+    min-height: 30rem;
+    min-width: 40rem;
+    outline: solid rgb(110, 55, 18) 0.5rem;
+}

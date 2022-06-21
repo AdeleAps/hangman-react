@@ -1,0 +1,33 @@
+.btn {
+  font-weight: 400;
+  align-items: center;
+  display: inline;
+  background-color: rgba(240, 240, 240, 0.6);
+  border: 1px solid #dfdfdf;
+  border-radius: 16px;
+  box-sizing: border-box;
+  color: #000000;
+  cursor: pointer;
+  font-family: "Stardew", Inter, sans-serif;
+  font-size: 18px;
+  justify-content: center;
+  line-height: 28px;
+  max-width: 100%;
+  padding: 14px 22px;
+  text-decoration: none;
+  transition: all 0.2s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  margin: 0.05rem;
+}
+
+.btn:active,
+.btn:hover {
+  outline: 0;
+}
+
+.btn:hover {
+  background-color: #ffffff;
+  border-color: rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,15 @@
+.wrapper {
+    border-radius: 0.5rem;
+    padding: 2rem;
+    background-image: url(../../assets/img/realistic-wood-texture-background_92086-323.webp);
+    background-color: orange;
+    background-blend-mode:soft-light;
+    background-size: cover;
+    outline: 0.3rem solid rgb(214, 94, 14);
+}
+
+.title {
+    font-size: 8rem;
+    font-weight: 700;
+}
+

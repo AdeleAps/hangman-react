@@ -1,0 +1,7 @@
+.alphabet-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 45vw;
+    padding: 1rem;
+}
